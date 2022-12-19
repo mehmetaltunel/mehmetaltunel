@@ -2,6 +2,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehmetaltunel&theme=dark)](https://git.io/streak-stats)
 ### 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehmetaltunel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **mehmetaltunel/mehmetaltunel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
