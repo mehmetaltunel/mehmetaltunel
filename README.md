@@ -1,1 +1,1 @@
-Hı I am full stack developer!
+Hi I am full stack developer!
