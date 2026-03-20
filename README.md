@@ -14,11 +14,11 @@ Full-stack developer building desktop, mobile, and web apps.
 | [Metroboss](https://apps.apple.com/tr/app/metroboss/id6747207334) | Istanbul Metrobus driving game | [App Store](https://apps.apple.com/tr/app/metroboss/id6747207334) · [Play Store](https://play.google.com/store/apps/details?id=com.xyzapps.metroboss) |
 | [Wave Color](https://apps.apple.com/tr/app/wave-color/id6740161862) | Color matching puzzle game | [App Store](https://apps.apple.com/tr/app/wave-color/id6740161862) · [Play Store](https://play.google.com/store/apps/details?id=com.xyzapps.color_wave) |
 | [Block Arts](https://apps.apple.com/tr/app/block-arts/id6740063145) | Block puzzle game | [App Store](https://apps.apple.com/tr/app/block-arts/id6740063145) · [Play Store](https://play.google.com/store/apps/details?id=com.xyzapps.blocks_art) |
-| [AccessChecker](https://acceschecker.net) | Web accessibility checking tool | [Website](https://acceschecker.net) |
+| [AccessChecker](https://accesschecker.net) | Web accessibility checking tool | [Website](https://accesschecker.net) |
 
 ### Links
 
 - [mehmetaltunel.com](https://mehmetaltunel.com)
 - [xyzapps.net](https://xyzapps.net)
-- [acceschecker.net](https://acceschecker.net)
+- [accesschecker.net](https://accesschecker.net)
 - [mccleaner.com](https://mccleaner.com)
