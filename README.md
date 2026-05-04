@@ -7,8 +7,9 @@ Full-stack developer building desktop, mobile, and web apps.
 ### Projects
 
 #### Web & Desktop Tools
-* **[whattirefits](https://whattirefits.com/)** — Find the Right Tire Size for Your Vehicle
 * **[Passport Route](https://passportroute.com)** — Visa requirements checker
+* **[Jetlag App](https://jetlagapp.app)** — Jet Lag Calculator & Recovery Schedule
+* **[whattirefits](https://whattirefits.com/)** — Find the Right Tire Size for Your Vehicle
 * **[AccessChecker](https://accesschecker.net)** — Web accessibility checking tool
 * **[mcCleaner](https://mccleaner.com)** — Free system cleaner for macOS & Windows ([GitHub](https://github.com/mehmetaltunel/mcCleaner-releases))
 
@@ -27,4 +28,4 @@ Full-stack developer building desktop, mobile, and web apps.
 
 ### Links
 
-[mehmetaltunel.com](https://mehmetaltunel.com) • [xyzapps.net](https://xyzapps.net) • [accesschecker.net](https://accesschecker.net) • [mccleaner.com](https://mccleaner.com) • [passportroute.com](https://passportroute.com)
+[mehmetaltunel.com](https://mehmetaltunel.com) • [xyzapps.net](https://xyzapps.net) • [accesschecker.net](https://accesschecker.net) • [mccleaner.com](https://mccleaner.com) • [passportroute.com](https://passportroute.com) • [jetlagapp.app](https://jetlagapp.app/)
