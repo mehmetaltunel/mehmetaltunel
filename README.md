@@ -19,6 +19,11 @@ Full-stack developer building desktop, mobile, and web apps.
 * **[QRFiy](https://apps.apple.com/tr/app/qrfiy/id6746947126)** — QR code tool
 
 #### Games
+
+**Web**
+* **[Skyrend](https://simulatorfighters.com)** — Multiplayer aerial combat game (35+ aircraft, real-time dogfight, browser-based)
+
+**Mobile**
 * **[Metroboss](https://apps.apple.com/tr/app/metroboss/id6747207334)** — Istanbul Metrobus driving game
 * **[Maze Game](https://apps.apple.com/tr/app/mazegame/id6747647557)** — Reflexes & maze puzzle game
 * **[Wave Color](https://apps.apple.com/tr/app/wave-color/id6740161862)** — Color matching puzzle game
@@ -28,4 +33,4 @@ Full-stack developer building desktop, mobile, and web apps.
 
 ### Links
 
-[mehmetaltunel.com](https://mehmetaltunel.com) • [xyzapps.net](https://xyzapps.net) • [accesschecker.net](https://accesschecker.net) • [mccleaner.com](https://mccleaner.com) • [passportroute.com](https://passportroute.com) • [jetlagapp.app](https://jetlagapp.app/)
+[mehmetaltunel.com](https://mehmetaltunel.com) • [xyzapps.net](https://xyzapps.net) • [simulatorfighters.com](https://simulatorfighters.com) • [accesschecker.net](https://accesschecker.net) • [mccleaner.com](https://mccleaner.com) • [passportroute.com](https://passportroute.com) • [jetlagapp.app](https://jetlagapp.app/)
